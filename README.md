@@ -1,4 +1,5 @@
-# Project Setup Guide
+# Remove image background in React Native without requiring an external API.
+## Project Setup Guide
 
 Follow the steps below to set up your app and run it on your device.
 
