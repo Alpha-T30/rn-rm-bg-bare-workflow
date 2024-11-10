@@ -1,0 +1,10 @@
+0.connect the mobile with usb with developer option + usb debugging 
+1.npm i 
+
+2.npx expo prebuild
+
+3.npx expo run:android 
+this will start the metro press a after it started 
+
+4.npx expo start --dev-client
+use this next time you want to run your app 
